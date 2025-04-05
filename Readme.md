@@ -14,4 +14,4 @@ So, to get a new instance every time, I can use one of two ways:
 
 * It’s easier to write tests for
 
-* It gives me more control
+* It gives me more control.
